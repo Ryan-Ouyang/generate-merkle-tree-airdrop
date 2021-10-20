@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.6.2",
+    "ts-node": "^10.2.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "generateAirdrop": "ts-node src/generateMerkleStuffForAirdrop.ts"
+  },
+  "dependencies": {
+    "ethers": "^5.4.6",
+    "graceful-fs": "^4.2.8",
+    "keccak256": "^1.0.3",
+    "merkletreejs": "^0.2.24"
+  }
+}

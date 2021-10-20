@@ -1,0 +1,25 @@
+{
+  "root": "0x7a7b295c643914eda682ced19b19c5b6b602276f91fa31772c22054533c9ee20",
+  "addressToProofMap": {
+    "0x6b77ef89debee8b45de2549eaa4f33eafbb68f62": {
+      "tokenId": "1",
+      "proof": [
+        "0xe58242a34b06f3e70f783b5bc176f1ed82751c8a4526ac9489cc9d16f7291985",
+        "0xa5454fd50cc608484944a0c6bda995d474b630598baac6c07a0e9e4613ca8835"
+      ]
+    },
+    "0xb2ee1bc884f902d827943c5a13bcc16f02d845ae": {
+      "tokenId": "2",
+      "proof": [
+        "0xd7dd9ec595fd86cf7158d0d65d63746122a35f62cb8d0969648f04683c2d1af5",
+        "0xa5454fd50cc608484944a0c6bda995d474b630598baac6c07a0e9e4613ca8835"
+      ]
+    },
+    "0xf4296d0591541f6d25e241a0dac3d7021d8b821a": {
+      "tokenId": "3",
+      "proof": [
+        "0x8b0e02d2410959fcf97449021e2e5659253ea538e23dfd99bfbbaa31af9cc74e"
+      ]
+    }
+  }
+}

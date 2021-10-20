@@ -1,6 +1,7 @@
 # generate-merkle-tree-drop
 
 From: https://blog.openzeppelin.com/workshop-recap-building-an-nft-merkle-drop/
+
 Smart contract implementation: https://github.com/OpenZeppelin/workshops/tree/master/06-nft-merkle-drop
 
 How to run:

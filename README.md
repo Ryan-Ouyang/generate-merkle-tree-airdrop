@@ -4,7 +4,7 @@ From: https://blog.openzeppelin.com/workshop-recap-building-an-nft-merkle-drop/
 
 Smart contract implementation: https://github.com/OpenZeppelin/workshops/tree/master/06-nft-merkle-drop
 
-How to run:
+### How to run:
 
 1. Run `yarn` to install dependencies
 2. Create array of addresses included in the drop in `allowlist.json`

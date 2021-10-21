@@ -2,7 +2,7 @@
 
 From: https://blog.openzeppelin.com/workshop-recap-building-an-nft-merkle-drop/
 
-Smart contract implementation: https://github.com/OpenZeppelin/workshops/tree/master/06-nft-merkle-drop
+Smart contract implementation: https://github.com/OpenZeppelin/workshops/blob/master/06-nft-merkle-drop/contracts/ERC721MerkleDrop.sol
 
 ### How to run:
 
